@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./frontend/public/logo.png" alt="DevDex Logo" width="120" />
+  <img src="./frontend/public/logo.png" alt="DevDex Logo" width="360" />
   <br />
   <br />
   <img src="https://img.shields.io/badge/License-Proprietary-red" alt="License" />
