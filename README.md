@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="./frontend/public/logo.png" alt="DevDex Logo" width="120" />
+  <br />
+  <br />
   <img src="https://img.shields.io/badge/License-Proprietary-red" alt="License" />
   <img src="https://img.shields.io/badge/Next.js-14-black" alt="Next.js" />
   <img src="https://img.shields.io/badge/FastAPI-Python-teal" alt="FastAPI" />
