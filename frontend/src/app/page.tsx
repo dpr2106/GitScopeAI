@@ -92,8 +92,8 @@ export default function Home() {
           className="flex items-center gap-3 cursor-pointer group" 
           onClick={() => { setData(null); setUsername(""); setError(""); }}
         >
-          <div className="p-2 bg-gradient-to-br from-purple-500 to-blue-600 rounded-lg shadow-[0_0_15px_rgba(168,85,247,0.4)] group-hover:shadow-[0_0_25px_rgba(168,85,247,0.6)] transition-shadow">
-            <GithubIcon className="w-5 h-5 text-white" />
+          <div className="flex items-center justify-center rounded-lg shadow-[0_0_15px_rgba(168,85,247,0.4)] group-hover:shadow-[0_0_25px_rgba(168,85,247,0.6)] transition-shadow overflow-hidden w-9 h-9">
+            <img src="/logo.png" alt="DevDex Logo" className="w-full h-full object-cover" />
           </div>
           <span className="text-lg font-bold tracking-tight text-white hidden sm:block">DevDex</span>
         </div>
