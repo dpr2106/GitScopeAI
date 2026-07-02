@@ -70,9 +70,6 @@
 - **Database / Cache:** [Supabase](https://supabase.com/) (PostgreSQL)
 - **APIs:** GitHub REST API
 
-## 🎨 Design Philosophy
-DevDex was designed with a "dark mode by default" philosophy, utilizing heavy glassmorphism, vibrant neon accents, and smooth micro-animations. It feels premium, responsive, and alive, treating the developer's data with the respect it deserves.
-
 ## 📝 Copyright
 &copy; 2026 Prashanth. All Rights Reserved. 
 
